@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 client.on('ready', () => {
-client.user.setGame(`Arab Community SERVER`,"https://www.twitch.tv/idk")
+client.user.setGame(`- Relax,BroadCast`,"https://www.twitch.tv/idk")
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
